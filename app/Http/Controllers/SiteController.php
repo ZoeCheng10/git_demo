@@ -17,4 +17,7 @@ class SiteController extends Controller
     public function ss(){
       sdfsffsl;
     }
+       public function hello(){
+      sdfsffsl;
+    }
 }
