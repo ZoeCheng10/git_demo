@@ -13,7 +13,7 @@ class SiteController extends Controller
     {
         return "我上傳成功啦!";
     }
-      public function hello1()
+    public function hello1()
     {
         return "sdfsffsl";
     }
@@ -35,7 +35,12 @@ class SiteController extends Controller
     }
     public function modyachi()
     {
-         return "MOD Yachoi";
+        return "MOD Yachoi";
+    }
+
+    public function 惠姬()
+    {
+        return "FIGHT";
     }
 
     public function chia()
