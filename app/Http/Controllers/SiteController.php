@@ -15,11 +15,11 @@ class SiteController extends Controller
     }
     public function ss()
     {
-        sdfsffsl;
+        return "ass";
     }
-    public function hello44()
+    public function hello1()
     {
-        sdfsffsl;
+        return "sdfsffsl";
     }
     public function THX()
     {
