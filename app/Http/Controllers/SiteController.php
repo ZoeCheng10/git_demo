@@ -28,9 +28,5 @@ class SiteController extends Controller
     {
         return "thx";
     }
-    public function THX777()
-    {
-        return "thx";
-    }
 
 }
