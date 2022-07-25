@@ -9,11 +9,12 @@ class SiteController extends Controller
   public function hello(){
       return "hello";
   }
-  public function aaa(){
-    return "aaa";
-  }
+
     public function yachi()
     {
         return "我上傳成功啦!";
+    }
+    public function ss(){
+      sdfsffsl;
     }
 }
