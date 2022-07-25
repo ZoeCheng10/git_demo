@@ -14,6 +14,6 @@ class SiteController extends Controller
   }
     public function yachi()
     {
-        return "我上傳成功啦!再來一次";
+        return "我上傳成功啦!";
     }
 }
