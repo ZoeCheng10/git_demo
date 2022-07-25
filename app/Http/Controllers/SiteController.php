@@ -28,8 +28,6 @@ class SiteController extends Controller
     {
         return "thx";
     }
-<<<<<<< HEAD
-=======
     public function THX777()
     {
         return "thx";
@@ -38,6 +36,5 @@ class SiteController extends Controller
     {
         return "創分支啦!";
     }
->>>>>>> yachi
 
 }
