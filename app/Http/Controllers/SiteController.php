@@ -33,5 +33,8 @@ class SiteController extends Controller
     {
         return "創分支啦!";
     }
-
+    public function modyachi()
+    {
+         return "MOD Yachoi";
+    }
 }
