@@ -21,5 +21,9 @@ class SiteController extends Controller
     {
         sdfsffsl;
     }
+    public function THX()
+    {
+        return "thx";
+    }
 
 }
