@@ -10,4 +10,8 @@ class SiteController extends Controller
       return "hello";
   }
 
+    public function yachi()
+    {
+        return "我上傳成功啦!";
+    }
 }
