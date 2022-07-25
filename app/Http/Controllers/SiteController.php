@@ -20,6 +20,8 @@ class SiteController extends Controller
     public function hello1()
     {
         return "sdfsffsl";
+       public function hello1(){
+      return "sdfsffsl";
     }
     public function THX()
     {
