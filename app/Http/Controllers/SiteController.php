@@ -32,5 +32,9 @@ class SiteController extends Controller
     {
         return "thx";
     }
+    public function yachi2()
+    {
+        return "創分支啦!";
+    }
 
 }
