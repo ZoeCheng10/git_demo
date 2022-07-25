@@ -6,8 +6,7 @@ use Illuminate\Http\Request;
 
 class SiteController extends Controller
 {
-  public function name(){
-      return "1230";
+  public function hello(){
+      return "hello";
   }
-
 }
