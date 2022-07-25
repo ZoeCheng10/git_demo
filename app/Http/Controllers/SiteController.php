@@ -17,8 +17,9 @@ class SiteController extends Controller
     {
         return "sdfsffsl";
     }
-       public function hello3(){
-      return "sdfsffsl";
+    public function hello3()
+    {
+        return "sdfsffsl";
     }
     public function THX()
     {
