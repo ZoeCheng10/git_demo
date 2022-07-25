@@ -15,6 +15,6 @@ class SiteController extends Controller
         return "我上傳成功啦!再來一次";
     }
     public function ss(){
-      sdfsffsl;
+      return "我又來了!!";
     }
 }
