@@ -27,7 +27,7 @@ class SiteController extends Controller
     }
     public function THX777()
     {
-        return "thx";
+        return "thx777";
     }
     public function yachi2()
     {
@@ -37,4 +37,10 @@ class SiteController extends Controller
     {
          return "MOD Yachoi";
     }
+
+    public function chia()
+    {
+        return "chia!";
+    }
+
 }
