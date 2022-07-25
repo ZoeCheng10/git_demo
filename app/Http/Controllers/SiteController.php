@@ -12,4 +12,8 @@ class SiteController extends Controller
   public function aaa(){
     return "aaa";
   }
+    public function yachi()
+    {
+        return "我上傳成功啦!";
+    }
 }
