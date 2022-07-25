@@ -17,12 +17,21 @@ class SiteController extends Controller
     {
         return "sdfsffsl";
     }
-       public function hello3(){
-      return "sdfsffsl";
+    public function hello3()
+    {
+        return "sdfsffsl";
     }
     public function THX()
     {
         return "thx";
+    }
+    public function THX777()
+    {
+        return "thx";
+    }
+    public function yachi2()
+    {
+        return "創分支啦!";
     }
 
 }
