@@ -31,7 +31,7 @@ class SiteController extends Controller
     }
     public function THX777()
     {
-        return "thx";
+        return "thx777";
     }
     public function yachi2()
     {
