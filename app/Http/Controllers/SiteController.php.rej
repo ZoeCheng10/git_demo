@@ -1,0 +1,15 @@
+diff a/app/Http/Controllers/SiteController.php b/app/Http/Controllers/SiteController.php	(rejected hunks)
+@@ -35,7 +35,12 @@
+     }
+     public function modyachi()
+     {
+-         return "MOD Yachoi";
++        return "MOD Yachoi";
++    }
++
++    public function 惠姬()
++    {
++        return "FIGHT";
+     }
+ 
+     public function chia()
